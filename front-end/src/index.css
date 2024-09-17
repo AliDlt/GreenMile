@@ -1,0 +1,27 @@
+html,
+#root {
+    height: 100%;
+    position: relative;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    height: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+@font-face {
+    font-family: FontsFree-Net-ir_sans;
+    src: url(Fonts/FontsFree-Net-ir_sans.ttf);
+}
+
+* {
+    font-family: FontsFree-Net-ir_sans;
+}

@@ -1,0 +1,5 @@
+{
+    "disks":[
+        {"name":"my-disk","mountTo":"static_cdn/media_root"}
+    ]
+}
