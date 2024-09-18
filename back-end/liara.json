@@ -1,5 +1,12 @@
 {
-    "disks":[
-        {"name":"my-disk","mountTo":"static_cdn/media_root"}
+    "disks": [
+        {
+            "name": "media",
+            "mountTo": "media"
+        },
+        {
+            "name": "database",
+            "mountTo": "database"
+        }
     ]
 }
